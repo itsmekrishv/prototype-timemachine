@@ -1,0 +1,109 @@
+[
+  {
+    "categoryName": "Calendar",
+    "mobileCategoryId": 1,
+    "webCategoryId": 1,
+    "controlList": [
+      {
+        "title": "Event Calendar",
+        "description": "Allows you to easily visualize and schedule appointments",
+        "image": "images/calendar.png",
+        "isBeta": true,
+        "displayType": "tab",
+        "controlId": 1,
+        "subItems": [
+          {
+            "type": "sample",
+            "title": "Scheduling",
+            "key": "appointment_editor_calendar"
+          },
+          {
+            "type": "sample",
+            "title": "Timeline views",
+            "key": "timeline_views_calendar"
+          },
+          {
+            "type": "sample",
+            "title": "Schedule View",
+            "key": "schedule_view_calendar"
+          },
+          {
+            "type": "sample",
+            "title": "Heat Map",
+            "key": "heat_map_calendar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "ToDos",
+    "mobileCategoryId": 2,
+    "webCategoryId": 2,
+    "controlList": [
+      {
+        "title": "ToDo",
+        "description": "Allows you to easily visualize and schedule appointments",
+        "image": "images/calendar.png",
+        "isBeta": true,
+        "displayType": "tab",
+        "controlId": 1,
+        "subItems": [
+          {
+            "type": "sample",
+            "title": "ToDo List",
+            "status": "Updated",
+            "key": "todo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "NOTES MAKER",
+    "mobileCategoryId": 3,
+    "webCategoryId": 3,
+    "controlList": [
+      {
+        "title": "Notes",
+        "description": "Allows you to easily visualize and schedule appointments",
+        "image": "images/calendar.png",
+        "isBeta": true,
+        "displayType": "tab",
+        "controlId": 1,
+        "subItems": [
+          {
+            "type": "sample",
+            "title": "Notes to remember",
+            "status": "Updated",
+            "key": "notes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "UPCOMING PRODUCTS",
+    "mobileCategoryId": 4,
+    "webCategoryId": 4,
+    "controlList": [
+      {
+        "title": "MunchEye",
+        "description": "Allows you to easily visualize and schedule appointments",
+        "image": "images/calendar.png",
+        "isBeta": true,
+        "displayType": "tab",
+        "controlId": 1,
+        "subItems": [
+          {
+            "type": "sample",
+            "title": "Launches",
+            "status": "Updated",
+            "isBeta": true,
+            "key": "munch_eye"
+          }
+        ]
+      }
+    ]
+  }
+]
